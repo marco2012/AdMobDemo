@@ -57,7 +57,7 @@
             app:backgroundTint="#0F9D58"
             android:layout_marginBottom="12dp" /> <!-- Added spacing -->
 
-        <!--&lt;!&ndash; Google Red - #DB4437 &ndash;&gt;-->
+       <!-- &lt;!&ndash;&lt;!&ndash; Google Red - #DB4437 &ndash;&gt;&ndash;&gt;
         <com.google.android.material.button.MaterialButton
             android:id="@+id/btnInterstitialAds"
             android:layout_width="match_parent"
@@ -65,9 +65,9 @@
             android:text="@string/interstitial_ads"
             android:textColor="#FFFFFF"
             app:backgroundTint="#DB4437"
-            android:layout_marginBottom="12dp" /> <!-- Added spacing -->
+            android:layout_marginBottom="12dp" /> &lt;!&ndash; Added spacing &ndash;&gt;
 
-        <!--&lt;!&ndash; Google Yellow - #F4B400 (Using Black text for contrast) &ndash;&gt;-->
+        &lt;!&ndash;&lt;!&ndash; Google Yellow - #F4B400 (Using Black text for contrast) &ndash;&gt;&ndash;&gt;
         <com.google.android.material.button.MaterialButton
             android:id="@+id/btnNativeAds"
             android:layout_width="match_parent"
@@ -75,9 +75,9 @@
             android:text="@string/native_ads"
             android:textColor="#000000"
             app:backgroundTint="#F4B400"
-            android:layout_marginBottom="12dp" /> <!-- Added spacing -->
+            android:layout_marginBottom="12dp" /> &lt;!&ndash; Added spacing &ndash;&gt;
 
-        <!--&lt;!&ndash; Google Blue - #4285F4 &ndash;&gt;-->
+        &lt;!&ndash;&lt;!&ndash; Google Blue - #4285F4 &ndash;&gt;&ndash;&gt;
         <com.google.android.material.button.MaterialButton
             android:id="@+id/btnRewardedAds"
             android:layout_width="match_parent"
@@ -85,9 +85,9 @@
             android:text="@string/rewarded_ads"
             android:textColor="#FFFFFF"
             app:backgroundTint="#4285F4"
-            android:layout_marginBottom="12dp" /> <!-- Added spacing -->
+            android:layout_marginBottom="12dp" /> &lt;!&ndash; Added spacing &ndash;&gt;
 
-        <!--&lt;!&ndash; Google Green - #0F9D58 &ndash;&gt;-->
+        &lt;!&ndash;&lt;!&ndash; Google Green - #0F9D58 &ndash;&gt;&ndash;&gt;
         <com.google.android.material.button.MaterialButton
             android:id="@+id/btnRewardedInterstitialAds"
             android:layout_width="match_parent"
@@ -95,15 +95,15 @@
             android:text="@string/rewarded_interstitial_ads"
             android:textColor="#FFFFFF"
             app:backgroundTint="#0F9D58"
-            android:layout_marginBottom="12dp" /> <!-- Added spacing -->
+            android:layout_marginBottom="12dp" /> &lt;!&ndash; Added spacing &ndash;&gt;
 
-        <!--&lt;!&ndash; Google Red - #DB4437 &ndash;&gt;-->
+        &lt;!&ndash;&lt;!&ndash; Google Red - #DB4437 &ndash;&gt;&ndash;&gt;
         <com.google.android.material.button.MaterialButton
             android:id="@+id/btnAppOpenAds"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/app_open_ads"
             android:textColor="#FFFFFF"
-            app:backgroundTint="#DB4437" />
+            app:backgroundTint="#DB4437" />-->
     </LinearLayout>
 </layout>
