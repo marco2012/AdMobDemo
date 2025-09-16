@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Outer red circle -->
+    <path
+        android:fillColor="#DB4437"
+        android:pathData="M50,10
+                          A40,40 0 1,1 49.9,10 Z"/>
+
+    <!-- Yellow arc overlay (cut-out style) -->
+    <path
+        android:fillColor="#F4B400"
+        android:pathData="M50,50
+                          m0,-40
+                          a40,40 0 1,0 0,80
+                          a25,25 0 1,1 0,-50 z"/>
+
+    <!-- Inner white circle (center cutout) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,35
+                          a15,15 0 1,0 0,30
+                          a15,15 0 1,0 0,-30z"/>
+</vector>
