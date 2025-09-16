@@ -14,20 +14,6 @@ This demo covers a range of ad formats, including:
 - Rewarded Interstitial Ads: Combine the interstitial ad experience with rewards.
 - App Open Ads: Showcase full-screen ads during app loading or transitions.
 
-## Getting Started
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/PanktiSP13/GoogleAdsDemoInKotlin.git
-   ```
-
-2. Open the project in Android Studio.
-
-3. Set up your AdMob account and configure your ad unit IDs as needed.
-
-4. Build and run the app on an emulator.
-
 ## Usage
 
 Explore the app to see different ad formats in action. Each section of the app demonstrates a specific ad format, providing insights into their integration, behavior, and user experience. By examining the code and layouts, you'll be equipped to implement these ad formats in your own projects.
